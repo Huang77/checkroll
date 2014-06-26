@@ -1,0 +1,34 @@
+#leftPart {
+	float: left;
+	width: 25%;
+	height: 100%;
+	background-color: #e1e1e1;
+}
+
+#rightPart {
+	float: left;
+	width: 75%;
+	height: 100%;
+	background-color: #ffffff;
+}
+
+#leftTitle {
+	margin: 0 auto;
+	margin-top: 50px;
+	width: 320px;
+}
+
+#courseDiv {
+	margin: 0 auto;
+	width: 320px;
+}
+
+#piechartDiv {
+	margin: 0 auto;
+	width: 320px;
+}
+
+#rightPart {
+	font: bold 12px/20px arial,sans-serif;
+}
+
